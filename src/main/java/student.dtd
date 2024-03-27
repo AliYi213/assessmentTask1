@@ -1,0 +1,5 @@
+<!ELEMENT student (name, subjects)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT subjects (subject+)>
+        <!ELEMENT subject (name, grade)>
+        <!ELEMENT grade (#PCDATA)>

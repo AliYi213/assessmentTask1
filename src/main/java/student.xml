@@ -1,0 +1,45 @@
+<student>
+    <name>Ali</name>
+    <subjects>
+        <subject>
+            <name>Mathematics</name>
+            <grade>9</grade>
+        </subject>
+        <subject>
+            <name>Physics</name>
+            <grade>8</grade>
+        </subject>
+        <subject>
+            <name>Chemistry</name>
+            <grade>7</grade>
+        </subject>
+        <subject>
+            <name>English</name>
+            <grade>10</grade>
+        </subject>
+        <subject>
+            <name>History</name>
+            <grade>6</grade>
+        </subject>
+        <subject>
+            <name>Biology</name>
+            <grade>8</grade>
+        </subject>
+        <subject>
+            <name>Computer Science</name>
+            <grade>9</grade>
+        </subject>
+        <subject>
+            <name>Geography</name>
+            <grade>7</grade>
+        </subject>
+        <subject>
+            <name>Art</name>
+            <grade>8</grade>
+        </subject>
+        <subject>
+            <name>Chemistry</name>
+            <grade>10</grade>
+        </subject>
+    </subjects>
+</student>
